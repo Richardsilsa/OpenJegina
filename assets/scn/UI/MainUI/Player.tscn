@@ -1,0 +1,29 @@
+[gd_scene format=2]
+
+[node name="Control" type="CanvasLayer"]
+
+[node name="DM" type="Button" parent="."]
+margin_left = 120.0
+margin_top = -70.0
+margin_right = 140.0
+margin_bottom = -50.0
+text = "-"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="DP" type="Button" parent="."]
+margin_left = 90.0
+margin_top = -70.0
+margin_right = 110.0
+margin_bottom = -50.0
+text = "+"
+
+[node name="SD" type="Label" parent="."]
+margin_left = 80.0
+margin_top = -90.0
+margin_right = 148.0
+margin_bottom = -70.0
+text = "StopDelay"
+align = 1
+valign = 1
