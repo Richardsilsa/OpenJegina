@@ -12,6 +12,7 @@ This is one of my older games, that now im planning to make it open, this thing 
 3 - Have the project files
 
 **Steps**
+
 0 - Download or clone the files
 
 1 - Unzip the project
