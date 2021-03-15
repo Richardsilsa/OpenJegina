@@ -1,9 +1,0 @@
-[gd_scene load_steps=2 format=2]
-
-[ext_resource path="res://assets/scp/bdy/player/Main.gd" type="Script" id=1]
-
-
-[node name="Camf" type="KinematicBody2D"]
-self_modulate = Color( 0.223529, 0.505882, 0.996078, 1 )
-scale = Vector2( 0.5, 0.5 )
-script = ExtResource( 1 )
