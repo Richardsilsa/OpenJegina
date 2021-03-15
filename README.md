@@ -1,5 +1,3 @@
-**This game is not going to be hosted on github, because file upload sucks, if you wish to build it, grab an release file**
-
 **OpenJegina**
 This is one of my older games, that now im planning to make it open, this thing is not planned to played as an regular game, if you want to play it like this you are wasting your time.
 
@@ -14,7 +12,9 @@ This is one of my older games, that now im planning to make it open, this thing 
 3 - Have the project files
 
 **Steps**
-1 - Download or clone the files
+0 - Download or clone the files
+
+1 - Unzip the project
 
 2 - Open godot *or download it on https://godotengine.org/*
 
