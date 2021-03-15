@@ -1,10 +1,13 @@
 **OpenJegina**
+
 This is one of my older games, that now im planning to make it open, this thing is not planned to played as an regular game, if you want to play it like this you are wasting your time.
 
 **How to build**
+
 *This is just a bunch of godot project files, so it can be build as any other game, in any plataform, as longest as it have godot support*
 
 **Requirements**
+
 1 - Have godot installed
 
 2 - Have OpenGl 2 support
